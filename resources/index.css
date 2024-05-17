@@ -1,0 +1,133 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    
+    
+  }
+
+
+h1 {
+    font-family: "Trebuchet MS", helvetica;
+    font-size: 80px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    width: 1000px;
+    position: relative;
+    left: 400px;
+    
+}
+
+header{
+    background-color: rgb(29, 29, 56);
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+   
+}
+
+footer ul{
+    list-style: none;
+    padding: 0;
+}
+
+footer{
+    background-color: rgb(29, 29, 56);
+    color: white;
+    font-family: "Trebuchet MS";
+    padding-top: 20px;
+    padding-bottom: 20px;    
+}
+
+footer li{
+    display: inline;
+    margin-bottom: 10px;
+    padding-right: 80px;
+    margin-left: 300px;
+    font-size: 22px;
+}
+
+.bodz{
+    background-color: rgb(255, 255, 255);
+}
+
+.navigation{
+    height: 50px;
+    background-color: white;
+
+    padding-bottom: 20px;
+    
+
+
+}
+
+.name{
+    position: relative;
+    left: 80px;
+    bottom: 5px;
+    color: rgb(29, 29, 56);
+    font-size: 40px;
+    font-family: "Poetsen One", helvetica;
+    
+    
+    
+
+}
+
+.navigation ul{
+    list-style: none;
+    padding:0;
+}
+.navigation li{
+   
+    font-family: "Trebuchet MS";
+    display: inline;
+    position: relative;
+    top: -90px;
+    right: -1300px;
+    padding-right: 80px;
+    font-size: 20px;
+}
+.tbm{
+    
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 0px;
+    background-color: white;
+    
+}
+
+.tit{
+    font-family: "Trebuchet MS";
+    font-size: 30px;
+    text-align: left;
+    background-color: rgb(29, 29, 56);
+    color: white;
+    
+
+
+}
+.para{
+    font-family: calibi;
+    font-size: 20px;
+    text-align: left;
+    
+    width: 400px;
+    height: 200px;
+
+}
+
+.space {
+
+    width: 100px;
+}
+
+.empty{
+    height: 100px;
+}
+
+.empty1{
+    height: 50px;
+}
